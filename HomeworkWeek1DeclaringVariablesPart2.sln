@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek1DeclaringVariablesPart2", "HomeworkWeek1DeclaringVariablesPart2\HomeworkWeek1DeclaringVariablesPart2.csproj", "{61BD23E2-0832-4C12-9315-33DE82C1B74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BD23E2-0832-4C12-9315-33DE82C1B74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BD23E2-0832-4C12-9315-33DE82C1B74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BD23E2-0832-4C12-9315-33DE82C1B74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BD23E2-0832-4C12-9315-33DE82C1B74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
